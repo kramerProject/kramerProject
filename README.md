@@ -28,7 +28,6 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style="max-width:100%;" width="40" height="40"></a> 
   <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" style="max-width:100%;" width="40" height="40"></a> 
 
-
 </p>
 
 <p style="width:100%">
