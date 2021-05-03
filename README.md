@@ -1,10 +1,10 @@
-# Breve Descrição:
+## Breve Descrição:
 
 Graduado em Publicidade e Propaganda pelo Mackenzie, pós graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. 
 
-Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um acelaração em python pela codenation até iniciar na <strong>Trybe</strong>como estudante de desenvolvimento de software..
+Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um acelaração em python pela codenation até iniciar na <strong>Trybe</strong> como estudante de desenvolvimento de software..
 
-# Porque eu gosto de programar:
+## Porque eu gosto de programar:
 
  Descobri na programação uma forma de expressão, uma oportunidade de aprender a pensar sobre como as coisas funcionam, enfrentar desafios e a resolver problemas diversos. Programação é uma ferramenta poderosa, é uma arte que expande os horizontes da criatividade.
 
