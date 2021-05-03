@@ -8,6 +8,11 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
 
  Descobri na programação uma forma de expressão, uma oportunidade de aprender a pensar sobre como as coisas funcionam, enfrentar desafios e a resolver problemas diversos. Programação é uma ferramenta poderosa, é uma arte que expande os horizontes da criatividade.
 
+ ## Atividades recentes:
+
+- Estudante de desenvolvimento de Software na trybe
+- Developer no _[Musii](https://musii.app/)_
+- Assessor de investimentos XP INC
 
 <header>
   <a href="https://www.linkedin.com/in/kramer-silva/" rel="nofollow">
