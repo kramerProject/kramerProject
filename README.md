@@ -2,7 +2,7 @@
 
 Graduado em Publicidade e Propaganda pelo Mackenzie, pós graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. 
 
-Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um acelaração em python pela codenation até iniciar na <strong>Trybe</strong> como estudante de desenvolvimento de software..
+Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um acelaração em python pela codenation até iniciar na <strong>Trybe</strong> como estudante de desenvolvimento de software.
 
 ## Porque eu gosto de programar:
 
@@ -13,6 +13,8 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
 - Estudante de desenvolvimento de Software na trybe
 - Developer no _[Musii](https://musii.app/)_
 - Assessor de investimentos XP INC
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kramerProject)](https://github.com/anuraghazra/github-readme-stats)
 
 <header>
   <a href="https://www.linkedin.com/in/kramer-silva/" rel="nofollow">
