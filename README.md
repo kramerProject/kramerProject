@@ -53,7 +53,7 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
   </div>
 </div>
 
-<div width="100%" align="center">
+<div width="100%" align="left">
 
 ### Stats
 
@@ -64,8 +64,6 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </div>
-
-<br>
 
 
 
