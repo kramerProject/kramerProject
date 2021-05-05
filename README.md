@@ -39,25 +39,6 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
   </div>
 </div>
 
-### Stats
-
-<div width="100%">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kramer stats" />
-
-  <a href="https://github.com/kramerProject">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-</div>
-
-<br>
-
-
-
-
-
-
-
-
 <div width="100%" align="center">
 
   ### Contatos
@@ -73,5 +54,18 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
       </a>
   </div>
 </div>
+
+### Stats
+
+<div width="100%">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kramer stats" />
+
+  <a href="https://github.com/kramerProject">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
+</div>
+
+<br>
+
 
 
