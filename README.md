@@ -39,25 +39,17 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
   </div>
 </div>
 
-<div flex-direction="row" width="100%">
+<div width="100%">
 
-  <p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kramerProject&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  </p>
-
-  <p>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kramerProject)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
-</div>
-
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kramer stats" />
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kramer stats" />
 
 <a href="https://github.com/kramerProject">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
+</div>
+
+
 
 <header>
     <a href="https://www.linkedin.com/in/kramer-silva/" rel="nofollow">
