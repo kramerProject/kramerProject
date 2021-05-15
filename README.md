@@ -11,23 +11,23 @@
       </a>
   </div>
 </div>
-<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
 
 Graduado em Publicidade e Propaganda pelo Mackenzie, pós graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. 
 
 Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um aceleração em python pela codenation até iniciar como estudante de desenvolvimento de software na <strong>Trybe</strong>.
 
-## Porque eu gosto de programar:
+### Porque eu gosto de programar:
 
  Descobri na programação uma forma de expressão, uma oportunidade de aprender a pensar sobre como as coisas funcionam, enfrentar desafios e a resolver problemas diversos. Programação é uma ferramenta poderosa, é uma arte que expande os horizontes da criatividade.
 
- ## Atividades recentes:
+ #### Atividades recentes:
 
 - Estudante de desenvolvimento de Software na trybe
 - Developer no _[Musii](https://musii.app/)_
 - Assessor de investimentos XP INC
 
-### Linguagens e Ferramentas:
+##### Linguagens e Ferramentas:
 
 <div width="100%">
   <div>
