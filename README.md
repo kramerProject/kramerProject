@@ -11,8 +11,7 @@
       </a>
   </div>
 </div>
-
-## Breve Descrição:
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
 
 Graduado em Publicidade e Propaganda pelo Mackenzie, pós graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. 
 
@@ -54,8 +53,6 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
 </div>
 
 <div width="100%" align="left">
-
-### Stats
 
 <div width="100%">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=kramerProject&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kramer stats" />
