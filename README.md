@@ -24,8 +24,7 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
 
  ## Atividades recentes:
 
-- Estudante de desenvolvimento de Software na trybe
-- Developer no _[Musii](https://musii.app/)_
+- Analista de Desenvolvimento de Sistemas na _[Neoway](https://www.neoway.com.br/)_
 - Assessor de investimentos XP INC
 
 ## Linguagens e Ferramentas:
