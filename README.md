@@ -16,7 +16,7 @@
 
 Graduado em Publicidade e Propaganda pelo Mackenzie, pos graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. Acesse meu _[Currículo](https://gitconnected.com/kramerproject/resume)_ para saber mais.
 
-Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um aceleração em python pela codenation até iniciar como estudante de desenvolvimento de software na <strong>Trybe</strong>.
+Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um aceleração em python pela codenation até concluir minha formação como desenvolvedor de software pela <strong>Trybe</strong>.
 
 ## Porque eu gosto de programar:
 
@@ -24,8 +24,7 @@ Iniciei meus estudos em programação com o python através dos vídeos do grand
 
  ## Atividades recentes:
 
-- Estudante de desenvolvimento de Software na trybe
-- Developer no _[Musii](https://musii.app/)_
+- Analista de Desenvolvimento de Sistemas na _[Neoway](https://www.neoway.com.br/)_
 - Assessor de investimentos XP INC
 
 ## Linguagens e Ferramentas:
