@@ -6,9 +6,6 @@
       <a href="https://github.com/kramerProject">
         <img src="https://camo.githubusercontent.com/9ef624866a1fb42e96fbc8dbb209283e42b1717511f3646f152677095038e5ba/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769746875622d3130382d3433383030382e706e67" data-canonical-src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" style="max-width:100%;" width="38px" align="middle">
       </a>
-      <a target="_blank" href="mailto:kramerscs@gmail.com">
-        <img align="middle" alt="E-mail" width="38px" src="https://image.flaticon.com/icons/svg/95/95627.svg" /><br>
-      </a>
   </div>
 </div>
 
