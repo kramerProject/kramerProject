@@ -8,10 +8,10 @@
 
 ## About me
 
-Graduated in Publicity and Propaganda, post graduated in administration and finance and master in economics. With a dynamic profile and more than 10 years of experience in the financial market, I worked in functions aimed at improving processes, planning, control and systems implementation.
+Graduated in Publicity and Propaganda, post graduated in Administration and Finance and Master in Economics. With a dynamic profile and more than 10 years of experience in the financial market, I worked in functions aimed at improving processes, planning, control and systems implementation.
 
-I started my studies in programming with VBA, than with python through youtube videos, followed by an intensive in python by codenation until I concluded a software developer course at <strong>Trybe</strong>.
-Visit my _[linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
+I started my studies in programming with VBA, python, until I concluded a software developer course at <strong>Trybe</strong>.
+Visit my [linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
 
 ## Why programming:
 
@@ -19,7 +19,7 @@ Visit my _[linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
 
  ## Recent Activities:
 
-I am currently working at  _[Neoway](https://www.neoway.com.br/)_ as a Software developer, where help develop custom data capture mechanisms (bots/crawlers).
+I am currently working at  _[Neoway](https://www.neoway.com.br/)_ as a Software developer, helping to develop custom data capture mechanisms (bots/crawlers).
 
 Responsibilities:
 - Feasibility analysis for data capture;
