@@ -12,22 +12,30 @@
   </div>
 </div>
 
-## Sobre mim
+## About me
 
-Graduado em Publicidade e Propaganda pelo Mackenzie, pos graduado em administração e finanças e mestre em economia pelo insper. Com perfil dinâmico e mais de 10 anos de experiência no mercado financeiro, atuei em funções voltadas a melhoria de processos, planejamento e controle. Acesse meu _[Currículo](https://gitconnected.com/kramerproject/resume)_ para saber mais.
+Graduated in Publicity and Propaganda, post graduated in administration and finance and master in economics. With a dynamic profile and more than 10 years of experience in the financial market, I worked in functions aimed at improving processes, planning, control and systems implementation.
 
-Iniciei meus estudos em programação com o python através dos vídeos do grande mestre <strong>Gustavo Guanabara</strong>, seguindo para um aceleração em python pela codenation até concluir minha formação como desenvolvedor de software pela <strong>Trybe</strong>.
+I started my studies in programming with VBA, than with python through youtube videos, followed by an intensive in python by codenation until I concluded a software developer course at <strong>Trybe</strong>.
+Visit my _[linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
 
-## Porque eu gosto de programar:
+## Why programming:
 
- Descobri na programação uma forma de expressão, uma oportunidade de aprender a pensar sobre como as coisas funcionam, enfrentar desafios e a resolver problemas diversos. Programação é uma ferramenta poderosa, é uma arte que expande os horizontes da criatividade.
+ I discovered in programming a form of expression, an opportunity to learn to think about how things work, to be challenged and solve different problems everyday. For me programming is a powerful tool, it is an art that expands the horizons of creativity.
 
- ## Atividades recentes:
+ ## Recent Activities:
 
-- Analista de Desenvolvimento de Sistemas na _[Neoway](https://www.neoway.com.br/)_
-- Assessor de investimentos XP INC
+I am currently working at  _[Neoway](https://www.neoway.com.br/)_ as a Software developer, where help develop custom data capture mechanisms (bots/crawlers).
 
-## Linguagens e Ferramentas:
+Responsibilities:
+- Feasibility analysis for data capture;
+- Development and Maintenance of Bots;
+- Creation of micro-services that help or improve data capture processes;
+- Development of automations for the processes used.
+
+Main tools used: Docker, Git, Python, Postgre, Mongo.
+
+## Languages and Tools:
 
 <div width="100%">
   <div>
