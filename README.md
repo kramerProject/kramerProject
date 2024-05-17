@@ -10,7 +10,7 @@
 
 Graduated in Publicity and Propaganda, post graduated in Administration and Finance and Master in Economics. With a dynamic profile and more than 10 years of experience in the financial market, I worked in functions aimed at improving processes, planning, control and systems implementation.
 
-I started my studies in programming with VBA, python, until I concluded a software developer course at <strong>Trybe</strong>.
+I started my studies in programming with VBA, python, until I concluded a software developer course at <strong>Trybe</strong> also have a MBA in Data Engineering at <strong>XP Educaçao</strong>.
 Visit my [linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
 
 ## Why programming:
@@ -22,12 +22,22 @@ Visit my [linkedin](https://www.linkedin.com/in/kramer-silva/) to find more.
 I am currently working at  _[Neoway](https://www.neoway.com.br/)_ as a Software developer, helping to develop custom data capture mechanisms (bots/crawlers).
 
 Responsibilities:
-- Feasibility analysis for data capture;
-- Development and Maintenance of Bots;
-- Creation of micro-services that help or improve data capture processes;
-- Development of automations for the processes used.
+- Feasibility analysis for data capture; 
+- Development and Maintenance of Bots; 
+- Creation of micro-services that help or improve data capture processes; 
+- Development of automations for the processes used. 
+- Modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces with Python, SQL, and other tools.
+- Directing system testing and validation procedures.
+- Directing software programming and documentation development.
+- Consulting with departments or customers on project status and proposals
+- Working with customers or departments on technical issues including software system design and maintenance.
+- Analyzing information to recommend and plan the code refactor
+- Consulting with engineering staff to evaluate software-hardware interfaces and develop specifications and performance requirements.
+- Conferring with project managers to obtain information on limitations or capabilities.
+- ETL development
+- API development
 
-Main tools used: Docker, Git, Python, Postgre, Mongo.
+Tech Stack: Go/Golang, Docker, Python, Big Data, Git, SQL, Go, Jenkins
 
 ## Languages and Tools:
 
